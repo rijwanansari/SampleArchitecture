@@ -181,7 +181,7 @@ namespace Sample.Core
                 transaction.Editor = currentUser.id;
                 transaction.CurrencyDepositId = 2;
 
-                var result = accountRepo.InsertUpdateTransactionAsync(transaction).Result;
+                var result =await accountRepo.InsertUpdateTransactionAsync(transaction);
                 //accountRepo.CommitTransaction();
                 return HelperClass.Response(true
                           , GlobalDecleration._successAction
