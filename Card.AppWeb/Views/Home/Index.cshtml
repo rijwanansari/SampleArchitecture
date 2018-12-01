@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div ng-app="cardApp" ng-controller="homeCtrl" ng-init="HomeOnInit()">
+      <div data-ng-view></div>
+</div>
+
+@Scripts.Render("~/bundles/App")
+
+@section scripts{
+
+}

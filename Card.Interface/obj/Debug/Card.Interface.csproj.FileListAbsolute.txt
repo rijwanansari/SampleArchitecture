@@ -1,0 +1,17 @@
+D:\Training App Dev\Satya\CardValidation\Card.Interface\bin\Debug\Card.Interface.dll
+D:\Training App Dev\Satya\CardValidation\Card.Interface\bin\Debug\Card.Interface.pdb
+D:\Training App Dev\Satya\CardValidation\Card.Interface\bin\Debug\Card.Helper.dll
+D:\Training App Dev\Satya\CardValidation\Card.Interface\bin\Debug\Card.Model.dll
+D:\Training App Dev\Satya\CardValidation\Card.Interface\bin\Debug\Card.Utility.dll
+D:\Training App Dev\Satya\CardValidation\Card.Interface\bin\Debug\Newtonsoft.Json.dll
+D:\Training App Dev\Satya\CardValidation\Card.Interface\bin\Debug\EntityFramework.dll
+D:\Training App Dev\Satya\CardValidation\Card.Interface\bin\Debug\Card.Helper.pdb
+D:\Training App Dev\Satya\CardValidation\Card.Interface\bin\Debug\Card.Model.pdb
+D:\Training App Dev\Satya\CardValidation\Card.Interface\bin\Debug\Card.Utility.pdb
+D:\Training App Dev\Satya\CardValidation\Card.Interface\bin\Debug\Newtonsoft.Json.xml
+D:\Training App Dev\Satya\CardValidation\Card.Interface\bin\Debug\EntityFramework.xml
+D:\Training App Dev\Satya\CardValidation\Card.Interface\obj\Debug\Card.Interface.csprojAssemblyReference.cache
+D:\Training App Dev\Satya\CardValidation\Card.Interface\obj\Debug\Card.Interface.csproj.CoreCompileInputs.cache
+D:\Training App Dev\Satya\CardValidation\Card.Interface\obj\Debug\Card.Interface.csproj.CopyComplete
+D:\Training App Dev\Satya\CardValidation\Card.Interface\obj\Debug\Card.Interface.dll
+D:\Training App Dev\Satya\CardValidation\Card.Interface\obj\Debug\Card.Interface.pdb

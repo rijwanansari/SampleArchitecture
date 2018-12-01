@@ -1,0 +1,5 @@
+Layer Name :-Sample.Core.Common
+Class Name :-AccountService : IAccountService
+Method Name :-BalanceTransaction
+Date Time :-12/1/2018 10:08:24 PM
+Error Message :-Object reference not set to an instance of an object. InnerException: 

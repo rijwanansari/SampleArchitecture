@@ -1,0 +1,29 @@
+﻿
+    <md-content layout-padding>
+        <div>
+            <form name="userForm">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="col-sm-4">
+                            <md-input-container>
+                                <label>Card#</label>
+                                <input ng-model="cardInputViewModel.cardNumber">
+                            </md-input-container>
+                        </div>
+                        <div class="col-sm-2">
+                            <md-input-container flex-gt-sm>
+                                <label>Expiry</label>
+                                <input ng-model="cardInputViewModel.expiryDate">
+                            </md-input-container>
+                        </div>
+                        <div class="col-sm-6">
+                            <md-button class="md-raised md-primary" ng-click="ValidateCard()">validate</md-button>
+                        </div>
+                    </div>                   
+                </div>
+                <div class="row">
+                    {{responseOutput}}
+                </div>
+            </form>
+        </div>
+    </md-content>

@@ -1,0 +1,9 @@
+D:\Training App Dev\Satya\CardValidation\Card.Utility\bin\Debug\Card.Utility.dll
+D:\Training App Dev\Satya\CardValidation\Card.Utility\bin\Debug\Card.Utility.pdb
+D:\Training App Dev\Satya\CardValidation\Card.Utility\bin\Debug\Card.Helper.dll
+D:\Training App Dev\Satya\CardValidation\Card.Utility\bin\Debug\Card.Helper.pdb
+D:\Training App Dev\Satya\CardValidation\Card.Utility\obj\Debug\Card.Utility.csprojAssemblyReference.cache
+D:\Training App Dev\Satya\CardValidation\Card.Utility\obj\Debug\Card.Utility.csproj.CoreCompileInputs.cache
+D:\Training App Dev\Satya\CardValidation\Card.Utility\obj\Debug\Card.Utility.csproj.CopyComplete
+D:\Training App Dev\Satya\CardValidation\Card.Utility\obj\Debug\Card.Utility.dll
+D:\Training App Dev\Satya\CardValidation\Card.Utility\obj\Debug\Card.Utility.pdb

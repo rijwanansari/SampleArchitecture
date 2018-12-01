@@ -1,0 +1,11 @@
+D:\Training App Dev\Satya\CardValidation\Card.Helper\bin\Debug\Sample.Helper.dll
+D:\Training App Dev\Satya\CardValidation\Card.Helper\bin\Debug\Sample.Helper.pdb
+D:\Training App Dev\Satya\CardValidation\Card.Helper\obj\Debug\Sample.Helper.csproj.CoreCompileInputs.cache
+D:\Training App Dev\Satya\CardValidation\Card.Helper\obj\Debug\Sample.Helper.dll
+D:\Training App Dev\Satya\CardValidation\Card.Helper\obj\Debug\Sample.Helper.pdb
+D:\Training App Dev\Satya\CardValidation\Card.Helper\obj\Debug\Sample.Helper.csprojAssemblyReference.cache
+D:\Training App Dev\Satya\SampleProject\Card.Helper\bin\Debug\Sample.Helper.dll
+D:\Training App Dev\Satya\SampleProject\Card.Helper\bin\Debug\Sample.Helper.pdb
+D:\Training App Dev\Satya\SampleProject\Card.Helper\obj\Debug\Sample.Helper.csproj.CoreCompileInputs.cache
+D:\Training App Dev\Satya\SampleProject\Card.Helper\obj\Debug\Sample.Helper.dll
+D:\Training App Dev\Satya\SampleProject\Card.Helper\obj\Debug\Sample.Helper.pdb

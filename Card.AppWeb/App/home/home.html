@@ -1,0 +1,68 @@
+﻿
+<md-content layout-padding>
+    <div ng-init="OnInit()">
+        <div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="col-sm-4">
+                        <md-input-container>
+                            <label>Account#</label>
+                            <input ng-model="transactionInputModel.accountNumber">
+                        </md-input-container>
+                    </div>
+                    <div class="col-sm-2">
+                        <md-input-container flex-gt-sm>
+                            <label>Amount</label>
+                            <input ng-model="transactionInputModel.amount">
+                        </md-input-container>
+                    </div>
+                    <div class="col-sm-3">
+                        <md-input-container>
+                            <label>Currency</label>
+                            <md-select ng-model="transactionInputModel.depositCurrency" required>
+                                <md-option ng-repeat="currency in currencies" ng-value="currency">
+                                    {{currency.IsoCode}}
+                                </md-option>
+                            </md-select>
+
+                        </md-input-container>
+                    </div>
+                    <div class="col-sm-1">
+                        <md-button class="md-raised md-primary" ng-click="OnDeposit()">Deposit</md-button>
+                    </div>
+                    <div class="col-sm-1">
+                        <md-button class="md-raised md-primary" ng-click="OnWithdraw()">Withdraw</md-button>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="col-sm-4">
+                        <md-input-container flex-gt-sm>
+                            <label>Account#</label>
+                            <input ng-model="checkBalance.balanceCheckAccountNo">
+                        </md-input-container>
+                    </div>
+
+
+                    <div class="col-sm-2">
+                        <md-button class="md-raised md-primary" ng-click="OnBalanceCheck()">Balance</md-button>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div col-sm-2>
+                    </div>
+                    <div col-sm-6>
+                        <md-input-container class="md-block">
+                            <label>Response Model</label>
+                            <textarea ng-disabled="true" rows="7" class="form-control" md-select-on-focus>
+{{responseOutput}}
+</textarea>
+                        </md-input-container>
+                    </div>
+
+                </div>
+            </div>
+    </div>
+</md-content>

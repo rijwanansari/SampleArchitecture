@@ -3,3 +3,14 @@
 ################################################################################
 
 /Card.AppWeb/bin
+/Card.Core/bin/Debug
+/Card.Helper/bin/Debug
+/Card.Infrastructure/bin/Debug
+/Card.Interface/bin/Debug
+/Card.Mapper/bin/Debug
+/Card.Model/bin/Debug
+/Card.Repository/bin/Debug
+/Card.Utility/bin/Debug
+/Card.WebApi/bin
+/Card.WebApi/Logs/2018-11-14_ErrorLog.txt
+/Card.WebApi/Logs/2018-11-13_ErrorLog.txt

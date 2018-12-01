@@ -1,0 +1,5 @@
+D:\Training App Dev\Satya\CardValidation\Card.Helper\bin\Debug\Card.Helper.dll
+D:\Training App Dev\Satya\CardValidation\Card.Helper\bin\Debug\Card.Helper.pdb
+D:\Training App Dev\Satya\CardValidation\Card.Helper\obj\Debug\Card.Helper.csproj.CoreCompileInputs.cache
+D:\Training App Dev\Satya\CardValidation\Card.Helper\obj\Debug\Card.Helper.dll
+D:\Training App Dev\Satya\CardValidation\Card.Helper\obj\Debug\Card.Helper.pdb

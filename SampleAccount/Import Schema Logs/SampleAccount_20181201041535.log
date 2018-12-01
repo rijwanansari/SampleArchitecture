@@ -1,0 +1,82 @@
+12/1/2018 10:15:35 PM	This log contains information about the import schema operation into project 'SampleAccount' on computer 'RIJWANPC' by user 'Admin'.
+12/1/2018 10:15:35 PM	Import of database schema has started.
+12/1/2018 10:15:48 PM	Gathering database credentials
+12/1/2018 10:15:48 PM	Gathering database options
+12/1/2018 10:15:48 PM	Gathering generic database scoped configuration option
+12/1/2018 10:15:48 PM	Gathering users
+12/1/2018 10:15:48 PM	Gathering roles
+12/1/2018 10:15:48 PM	Gathering application roles
+12/1/2018 10:15:48 PM	Gathering role memberships
+12/1/2018 10:15:48 PM	Gathering filegroups
+12/1/2018 10:15:48 PM	Gathering full-text catalogs
+12/1/2018 10:15:48 PM	Gathering assemblies
+12/1/2018 10:15:48 PM	Gathering certificates
+12/1/2018 10:15:48 PM	Gathering asymmetric keys
+12/1/2018 10:15:48 PM	Gathering symmetric keys
+12/1/2018 10:15:48 PM	Gathering encrypted symmetric keys
+12/1/2018 10:15:48 PM	Gathering schemas
+12/1/2018 10:15:48 PM	Gathering XML schema collections
+12/1/2018 10:15:48 PM	Gathering user-defined data types
+12/1/2018 10:15:48 PM	Gathering user-defined types
+12/1/2018 10:15:48 PM	Gathering table types
+12/1/2018 10:15:48 PM	Gathering unique keys for table types
+12/1/2018 10:15:48 PM	Gathering primary keys for table types
+12/1/2018 10:15:48 PM	Gathering indexes for table types
+12/1/2018 10:15:48 PM	Gathering check constraints for table types
+12/1/2018 10:15:48 PM	Gathering default constraints for table types
+12/1/2018 10:15:48 PM	Gathering partition functions
+12/1/2018 10:15:48 PM	Gathering partition schemes
+12/1/2018 10:15:48 PM	Gathering functions
+12/1/2018 10:15:48 PM	Gathering encrypted functions
+12/1/2018 10:15:48 PM	Gathering aggregates
+12/1/2018 10:15:48 PM	Gathering procedures
+12/1/2018 10:15:48 PM	Gathering encrypted procedures
+12/1/2018 10:15:48 PM	Gathering tables
+12/1/2018 10:15:48 PM	Gathering primary keys
+12/1/2018 10:15:48 PM	Gathering unique constraints
+12/1/2018 10:15:48 PM	Gathering foreign keys
+12/1/2018 10:15:48 PM	Gathering default constraints
+12/1/2018 10:15:48 PM	Gathering check constraints
+12/1/2018 10:15:48 PM	Gathering views
+12/1/2018 10:15:48 PM	Gathering encrypted views
+12/1/2018 10:15:48 PM	Gathering indexes
+12/1/2018 10:15:48 PM	Gathering statistics
+12/1/2018 10:15:48 PM	Gathering full-text index stoplists
+12/1/2018 10:15:48 PM	Gathering search property lists
+12/1/2018 10:15:48 PM	Gathering search properties
+12/1/2018 10:15:48 PM	Gathering full-text indexes
+12/1/2018 10:15:48 PM	Gathering column store indexes
+12/1/2018 10:15:50 PM	Gathering spatial indexes
+12/1/2018 10:15:50 PM	Gathering XML indexes
+12/1/2018 10:15:50 PM	Gathering Selective XML indexes
+12/1/2018 10:15:50 PM	Gathering encrypted triggers
+12/1/2018 10:15:50 PM	Gathering triggers
+12/1/2018 10:15:50 PM	Gathering encrypted and clr ddl triggers
+12/1/2018 10:15:50 PM	Gathering ddl triggers
+12/1/2018 10:15:50 PM	Gathering synonyms
+12/1/2018 10:15:50 PM	Gathering defaults
+12/1/2018 10:15:50 PM	Gathering data constraint uddt bindings
+12/1/2018 10:15:50 PM	Gathering rules
+12/1/2018 10:15:50 PM	Gathering data constraint uddt bindings
+12/1/2018 10:15:50 PM	Gathering message types
+12/1/2018 10:15:50 PM	Gathering queues
+12/1/2018 10:15:50 PM	Gathering contracts
+12/1/2018 10:15:50 PM	Gathering services
+12/1/2018 10:15:50 PM	Gathering event notifications
+12/1/2018 10:15:50 PM	Gathering remote service bindings
+12/1/2018 10:15:50 PM	Gathering broker priorities
+12/1/2018 10:15:50 PM	Gathering signatures
+12/1/2018 10:15:50 PM	Gathering data compression options
+12/1/2018 10:15:50 PM	Gathering sequence types
+12/1/2018 10:15:50 PM	Gathering security policies
+12/1/2018 10:15:50 PM	Gather column encryption keys
+12/1/2018 10:15:50 PM	Gathering column master keys
+12/1/2018 10:15:50 PM	Gathering external data sources
+12/1/2018 10:15:50 PM	Gathering external file formats
+12/1/2018 10:15:50 PM	Gathering external tables
+12/1/2018 10:15:50 PM	Gathering extended properties
+12/1/2018 10:15:50 PM	Scanning project for duplicate elements
+12/1/2018 10:15:50 PM	Finished duplicate element processing
+12/1/2018 10:15:51 PM	Finished importing database.
+12/1/2018 10:15:51 PM	A summary of the import was saved to the following location: D:\Training App Dev\Satya\SampleProject\SampleAccount\Import Schema Logs\SampleAccount_20181201041535.log
+12/1/2018 10:15:51 PM	Click Finish to continue...
